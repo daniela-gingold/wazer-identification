@@ -5,10 +5,10 @@ This project identifies whether an image includes a wazer or not, excluding waze
 - **input** is an image
 - **output** is "wazer" in case at least one wazer was detected in an image, "no wazer" otherwise .
 
-For example, the image below conatins wazers, the output will be "wazer":
+For example, the image below conatining wazers, the output will be "wazer":
 ![image](/images/img1.jpg)
 
-Hovewer, the following image doesn't contain any wazer except for waze logo. Thus, the expected result will be "no wazer"
+Hovewer, the following image doesn't contain any wazer except for the waze logo. Thus, the expected result will be "no wazer"
 ![img5](/images/img5.jpg)
 
 In order to run this project, beside the files in this repository, download [model_1](https://drive.google.com/drive/folders/1grwC-OLDYLe3nwEdrdYi75Q5ZnSG85aM?usp=sharingo).
