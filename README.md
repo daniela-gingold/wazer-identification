@@ -11,7 +11,6 @@ For example, the image below contains wazers so the output will be "wazer":
 
 However, the following image doesn't contain any wazer except for the waze logo. Thus, the expected result will be "no wazer"
 
-
 <img src="/images/img5.png" height = "250" width="500">
 
 In order to run this project, besides the files in this repository, download [model_1](https://drive.google.com/drive/folders/1grwC-OLDYLe3nwEdrdYi75Q5ZnSG85aM?usp=sharingo).
