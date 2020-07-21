@@ -6,8 +6,7 @@ This project identifies whether an image includes a wazer or not, excluding waze
 - **output** is "wazer" in case at least one wazer was detected in an image, otherwise "no wazer".
 
 For example, the image below conatins wazers, the output will be "wazer":
-![image](/images/img1.jpg)
-
+![image](/images/img1.jpg){:height="36px" width="36px"}.
 
 Hovewer, the following image doesn't contain any wazer except for waze logo. Thus, the expected result will be "no wazer"
 ![img5](/images/img5.jpg=250x250)
