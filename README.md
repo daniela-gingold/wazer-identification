@@ -2,7 +2,7 @@
 
 This project identifies whether an image includes a wazer or not, excluding wazer logo.
 
-input - an image
+input - an image\
 output - "wazer" in case at least one wazer was detected in an image, otherwise "no wazer".
 
 In order to run this project, beside the files in this repository, download [model_1](https://drive.google.com/drive/folders/1grwC-OLDYLe3nwEdrdYi75Q5ZnSG85aM?usp=sharingo).
