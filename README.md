@@ -13,7 +13,7 @@ The solution includes two consequent models:
 
 This project has two solutions to identify and disqualify logos:
 - according to model_1 locating outputs, i.e. when a logo overlaps a wazer area. This is a default solution.
-- using matching template algorithm. There is an argument to apply the match algorithm.
+- using matching template algorithm. There is an argument to apply this solution.
 
 For running an inference:
 
@@ -22,4 +22,4 @@ python test.py --test_image_path images\img1.jpg --model_path model_1.h5 --secon
 * the model’s paths can be skipped as they are default
 * test_image_path can be link to an image saved locally or a web link 
 
-Please note, that tensorflow1 is required for mrcnn. See full requirements.txt file attached to the folder.
+Please note, that TensorFlow 1 is required for mrcnn. See full requirements.txt file attached to the folder.
