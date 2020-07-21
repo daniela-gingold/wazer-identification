@@ -9,7 +9,7 @@ For example, the image below conatining wazers, the output will be "wazer":
 ![image](/images/img1.jpg)
 
 Hovewer, the following image doesn't contain any wazer except for the waze logo. Thus, the expected result will be "no wazer"
-![img5](/images/img5.jpg)
+![img5](/images/img5.png)
 
 In order to run this project, beside the files in this repository, download [model_1](https://drive.google.com/drive/folders/1grwC-OLDYLe3nwEdrdYi75Q5ZnSG85aM?usp=sharingo).
 
