@@ -2,8 +2,8 @@
 
 This project identifies whether an image includes a wazer or not, excluding wazer logo.
 
-input - an image\
-output - "wazer" in case at least one wazer was detected in an image, otherwise "no wazer".
+**input** is an image\
+**output** is "wazer" in case at least one wazer was detected in an image, otherwise "no wazer".
 
 For example, the image below conatins wazers, the output will be "wazer":
 ![image](/images/img1.jpg)
