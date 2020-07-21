@@ -18,7 +18,7 @@ The solution includes two consequent models:
 - model_2.h5 includes a CNN to classify detected objects
 
 This project has two solutions to identify and disqualify logos:
-- according to model_1 locating outputs, i.e. when a logo overlaps a wazer area. This is a default solution.
+- according to model_1 locating outputs, when a logo overlaps a wazer area. This is a default solution.
 - using matching template algorithm. There is an argument to apply this solution.
 
 For running an inference:
